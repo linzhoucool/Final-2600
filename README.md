@@ -13,7 +13,7 @@ Step1
 
 
 
-![Alt text](C:\Users\SD21\Desktop\REACT\PIC\PICTURE.png)
+![Alt text](Final-2600\PIC\PICTURE.png)
 
 
 * Download NPM
@@ -40,7 +40,7 @@ Step1
     
 
 
-    As the picture show that the title is the myreads. There is a coupe boojs on the read now .U can click right click and see a list show  "currently reading" , "read" , "want to read" 
+    As the picture show that the title is the myreads. There is a coupe books on the read now .U can click right click and see a list show  "currently reading" , "read" , "want to read" 
 
     You can choose any books to any bar what you like! Also there is a add button on the corner of the right bottom !
     It is the search buttom . Click it and you will see it change to another page. Placeholder is "search any books and author" You can type any world to search you lovely book. It seems like a library ! isn't it ? 
