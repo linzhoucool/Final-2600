@@ -38,7 +38,7 @@ Step1
     -----
 
     
-
+![Alt text](Search.png)
 
     As the picture show that the title is the myreads. There is a coupe books on the read now .U can click right click and see a list show  "currently reading" , "read" , "want to read" 
 
@@ -46,7 +46,7 @@ Step1
     It is the search buttom . Click it and you will see it change to another page. Placeholder is "search any books and author" You can type any world to search you lovely book. It seems like a library ! isn't it ? 
 
 
-
+![Alt text](Myread.png)
 
 
 
