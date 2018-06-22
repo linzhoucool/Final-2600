@@ -13,7 +13,7 @@ Step1
 
 
 
-![Alt text](Final-2600\PIC\PICTURE.png)
+![Alt text](PICTURE.png)
 
 
 * Download NPM
